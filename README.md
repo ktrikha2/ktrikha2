@@ -29,36 +29,29 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="30px"> About Me
+## 👋 About Me
 
-<div align="center">
+<div align="left">
   
-  ```python
-  class Keshav:
-      def __init__(self):
-          self.education = "CS + Economics @ UIUC"
-          self.current_role = "Graduate Student"
-          self.past_experience = [
-              "Technology Consultant @ RSM",
-              "Software/Data Engineering @ Motorola Solutions"
-          ]
-          self.interests = [
-              "ML Systems",
-              "Computer Vision", 
-              "Large-scale Data Pipelines",
-              "Cloud Infrastructure"
-          ]
-          self.status = "Exploring ML research & building cloud pipelines"
-      
-      def work_on(self):
-          return "Systems | Data | ML"
-  ```
-
+  I'm a **CS + Economics graduate student at UIUC** with experience across **software engineering, data engineering, and ML research**. I enjoy building things that sit at the intersection of **systems, data, and real-world impact**.
+  
+  <br>
+  
+  **Experience:**
+  - Former **Technology Consultant @ RSM**
+  - **Software / Data Engineering @ Motorola Solutions**
+  
+  <br>
+  
+  **Currently exploring:**
+  - ML systems, computer vision, and large-scale data pipelines
+  - Cloud infrastructure and scalable ETL workflows
+  
 </div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Fire.png" width="30px"> Currently Working On
+## 🔥 Currently Working On
 
 <table>
 <tr>
@@ -83,7 +76,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" width="30px"> Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
   
@@ -109,7 +102,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Sparkles.png" width="30px"> Featured Projects
+## ✨ Featured Projects
 
 <div align="center">
   
@@ -160,7 +153,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Red%20Heart.png" width="30px"> Interests & Hobbies
+## ❤️ Interests & Hobbies
 
 <div align="center">
   
@@ -170,20 +163,6 @@
   ![DJ](https://img.shields.io/badge/DJ-000000?style=for-the-badge&logo=spotify&logoColor=white)
   
   <p><em>Always down to talk about ML, systems, startups, or sports! 🏌️‍♂️ 🎾 🏎️ 🎧</em></p>
-  
-</div>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30px"> GitHub Stats
-
-<div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ktrikha2&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ktrikha2&layout=compact&theme=tokyonight&hide_border=true"/>
-  
-  <!-- Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ktrikha2&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
   
 </div>
 
